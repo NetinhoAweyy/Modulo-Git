@@ -1,0 +1,7 @@
+Henrique@RICK MINGW64 ~/Desktop/Modulo-Git (paises)
+$ git branch
+  main
+* paises
+
+Papua Nova Guiné
+Irã
